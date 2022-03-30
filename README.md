@@ -1,8 +1,8 @@
 [![MavysDraonProfile](https://github-readme-stats.vercel.app/api?username=MavysDraon&theme=tokyonight)](https://github.com/MavysDraon/MavysDraon/) 
 [![MavysDraonStats](https://github-readme-stats.vercel.app/api/top-langs/?username=MavysDraon&theme=tokyonight)](https://github.com/MavysDraon/MavysDraon/)
 
-<a href="https://github.com/MavysDraon/TroyClient-Official">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MavysDraon&repo=TroyClient-Official&theme=tokyonight" />
+<a href="https://github.com/MavysDraon/Gen-Password_v1.0.1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MavysDraon&repo=t-Gen-Password_v1.0.1&theme=tokyonight" />
 </a>
 <a href="https://github.com/MavysDraon/MacBansSystem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MavysDraon&repo=MacBansSystem&theme=tokyonight" />
