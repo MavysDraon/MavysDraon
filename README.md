@@ -4,9 +4,6 @@
 <a href="https://github.com/MavysDraon/Gen-Password_v1.0.1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MavysDraon&repo=t-Gen-Password_v1.0.1&theme=tokyonight" />
 </a>
-<a href="https://github.com/MavysDraon/MacBansSystem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MavysDraon&repo=MacBansSystem&theme=tokyonight" />
-</a>
 <br></br>
 <p align="center">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
