@@ -45,7 +45,7 @@
 <p class="title">V4.5 is officially out here is the news</p>
 
 <p class="novità">
-  <img src="https://img.shields.io/badge/-Add-green" alt="" />
+  <img src="https://img.shields.io/badge/-Added-green" alt="" />
   [+] Added a button that takes you up
   <br id="line" />
   <img src="https://img.shields.io/badge/-Changed-yellow" alt="" />
