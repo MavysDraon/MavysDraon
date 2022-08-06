@@ -42,24 +42,33 @@
 
 <h3>README Web Site</h3>
 
-<p class="title">V4.5 is officially out here is the news</p>
+  <p class="title">V5.0 is officially out here is the news</p>
 
-<p class="novità">
-  <img src="https://img.shields.io/badge/-Added-green" alt="" />
-  [+] Added a button that takes you up
-  <br id="line" />
-  <img src="https://img.shields.io/badge/-Changed-yellow" alt="" />
-  [=] Discord section moved
-  <br id="line" />
-  <img src="https://img.shields.io/badge/-Changed-yellow" alt="" />
-  [=] Increased the speed of the site
-  <br id="line" />
-  <img src="https://img.shields.io/badge/-Changed-yellow" alt="" />
-  [=] Small code cleanups
-  <br id="line" />
-  <img src="https://img.shields.io/badge/-Changed-yellow" alt="" />
-  [=] Bug fix
-  <br id="line" />
-  <img src="https://img.shields.io/badge/-Removed-red" alt="" />
-  [-] Menu Removed
-</p>
+  <p class="novità">
+    <img src="https://img.shields.io/badge/-Added-green" alt="" />
+    [+] Added the site on google as suggested
+    <br id="line" />
+    <img src="https://img.shields.io/badge/-Added-green" alt="" />
+    [+] Added Jobs section
+    <br id="line" />
+    <img src="https://img.shields.io/badge/-Added-green" alt="" />
+    [+] Added a new page: Season
+    <br id="line" />
+    <img src="https://img.shields.io/badge/-Changed-yellow" alt="" />
+    [=] Changed some colors
+    <br id="line" />
+    <img src="https://img.shields.io/badge/-Changed-yellow" alt="" />
+    [=] Code structure changed
+    <br id="line" />
+    <img src="https://img.shields.io/badge/-Changed-yellow" alt="" />
+    [=] Change the error pages
+    <br id="line" />
+    <img src="https://img.shields.io/badge/-Changed-yellow" alt="" />
+    [=] Code cleaning
+    <br id="line" />
+    <img src="https://img.shields.io/badge/-Changed-yellow" alt="" />
+    [=] Bug fix
+    <br id="line" />
+    <img src="https://img.shields.io/badge/-Removed-red" alt="" />
+    [-] Removed file extension
+  </p>
