@@ -45,30 +45,39 @@
   <p class="title">V5.0 is officially out here is the news</p>
 
   <p class="novità">
-    <img src="https://img.shields.io/badge/-Added-green" alt="" />
-    [+] Added the site on google as suggested
+    <img src = "https://img.shields.io/badge/-Added-green" alt = "" />
+    [+] Old Jobs section added
     <br id="line" />
-    <img src="https://img.shields.io/badge/-Added-green" alt="" />
-    [+] Added Jobs section
+    <img src = "https://img.shields.io/badge/-Added-green" alt = "" />
+    [+] Added Working & New interfaces
     <br id="line" />
-    <img src="https://img.shields.io/badge/-Added-green" alt="" />
-    [+] Added a new page: Season
+    <img src = "https://img.shields.io/badge/-Added-green" alt = "" />
+    [+] Added 503 error page
     <br id="line" />
-    <img src="https://img.shields.io/badge/-Changed-yellow" alt="" />
-    [=] Changed some colors
+    <img src = "https://img.shields.io/badge/-Added-green" alt = "" />
+    [+] Added buttons that take you to Seasons
     <br id="line" />
-    <img src="https://img.shields.io/badge/-Changed-yellow" alt="" />
-    [=] Code structure changed
+    <img src = "https://img.shields.io/badge/-Added-green" alt = "" />
+    [+] Season 2 added
     <br id="line" />
-    <img src="https://img.shields.io/badge/-Changed-yellow" alt="" />
-    [=] Change the error pages
+    <img src = "https://img.shields.io/badge/-Added-green" alt = "" />
+    [+] Added Automatic Light Mode
     <br id="line" />
-    <img src="https://img.shields.io/badge/-Changed-yellow" alt="" />
+    <img src = "https://img.shields.io/badge/-Changed-yellow" alt = "" />
+    [=] Changed the color declaration method
+    <br id="line" />
+    <img src = "https://img.shields.io/badge/-Changed-yellow" alt = "" />
+    [=] Base language changed
+    <br id="line" />
+    <img src = "https://img.shields.io/badge/-Changed-yellow" alt = "" />
+    [=] Fixed the bug that did not load the style of the season page
+    <br id="line" />
+    <img src = "https://img.shields.io/badge/-Changed-yellow" alt = "" />
+    [=] Fixed the bug of empty spaces in mobile devices
+    <br id="line" />
+    <img src = "https://img.shields.io/badge/-Changed-yellow" alt = "" />
     [=] Code cleaning
     <br id="line" />
-    <img src="https://img.shields.io/badge/-Changed-yellow" alt="" />
-    [=] Bug fix
-    <br id="line" />
     <img src="https://img.shields.io/badge/-Removed-red" alt="" />
-    [-] Removed file extension
+    [-] Removed the works section
   </p>
